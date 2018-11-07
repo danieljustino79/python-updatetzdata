@@ -3,7 +3,7 @@ A script to automate tzdata update via ssh
 
 You will nedd the paramiko==2.4.2  
 Install via pip 
-
+teste
 
 - [X] Centos5.
 - [X] YUM .
